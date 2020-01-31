@@ -1,14 +1,14 @@
 {
   "_from": "git+https://github.com/apache/cordova-plugin-geolocation.git",
-  "_id": "cordova-plugin-geolocation@4.0.3-dev",
+  "_id": "cordova-plugin-geolocation@4.0.2-dev",
   "_inBundle": false,
   "_integrity": "",
   "_location": "/cordova-plugin-geolocation",
   "_phantomChildren": {},
   "_requested": {
     "type": "git",
-    "raw": "git+https://github.com/apache/cordova-plugin-geolocation.git",
-    "rawSpec": "git+https://github.com/apache/cordova-plugin-geolocation.git",
+    "raw": "https://github.com/apache/cordova-plugin-geolocation.git",
+    "rawSpec": "https://github.com/apache/cordova-plugin-geolocation.git",
     "saveSpec": "git+https://github.com/apache/cordova-plugin-geolocation.git",
     "fetchSpec": "https://github.com/apache/cordova-plugin-geolocation.git",
     "gitCommittish": null
@@ -17,14 +17,14 @@
     "#USER",
     "/"
   ],
-  "_resolved": "git+https://github.com/apache/cordova-plugin-geolocation.git#6570cf9fd2c546620f6aa8b2a07cf0b8b073a95c",
-  "_spec": "git+https://github.com/apache/cordova-plugin-geolocation.git",
-  "_where": "D:\\Projects\\Best-projects\\CameraApp",
+  "_resolved": "git+https://github.com/apache/cordova-plugin-geolocation.git#6fd784740cd232277284933811d08f9c74f33c22",
+  "_spec": "https://github.com/apache/cordova-plugin-geolocation.git",
+  "_where": "C:\\Users\\green\\OneDrive\\Desktop\\MyCordovaApps\\CameraApp",
   "author": {
     "name": "Apache Software Foundation"
   },
   "bugs": {
-    "url": "https://github.com/apache/cordova-plugin-geolocation/issues"
+    "url": "https://issues.apache.org/jira/browse/CB"
   },
   "bundleDependencies": false,
   "cordova": {
@@ -75,5 +75,5 @@
     "eslint": "node node_modules/eslint/bin/eslint www && node node_modules/eslint/bin/eslint src && node node_modules/eslint/bin/eslint tests",
     "test": "npm run eslint"
   },
-  "version": "4.0.3-dev"
+  "version": "4.0.2-dev"
 }
